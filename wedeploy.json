@@ -1,5 +1,5 @@
 {
-  "id": "node-red-wedeploy",
+  "id": "noderedwedeploy",
   "port": 1880,
   "env": {
     "HOST": "0.0.0.0",
