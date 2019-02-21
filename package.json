@@ -4,5 +4,9 @@
         "node-red": "*",
         "node-red-dashboard": "*",
         "node-red-contrib-web-worldmap": "*"
+    },
+    "scripts": {
+    "start": "node-red"
     }
+    
 }
