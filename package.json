@@ -1,0 +1,8 @@
+{
+    "name"         : "node-red-wedeploy",
+    "dependencies": {
+        "node-red": "*",
+        "node-red-dashboard": "*",
+        "node-red-contrib-web-worldmap": "*"
+    }
+}
