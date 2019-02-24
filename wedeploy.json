@@ -1,5 +1,5 @@
 {
-  "id": "noderedwedeploy",
+  "id": "nr",
   "port": 1880,
   "env": {
     "HOST": "0.0.0.0",
