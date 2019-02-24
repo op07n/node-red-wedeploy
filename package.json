@@ -6,7 +6,7 @@
         "node-red-contrib-web-worldmap": "*"
     },
     "scripts": {
-    "start": "node-red"
+    "start": "node-red -s mysettingsfile.js"
     }
     
 }
